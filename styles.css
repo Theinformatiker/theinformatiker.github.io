@@ -1,0 +1,31 @@
+/* Benutzerdefinierte CSS-Regeln */
+.card {
+  width: 18rem;
+  margin: auto; /* Zentrieren der Karte horizontal */
+  margin-top: 50px; /* Optional: Platzierung der Karte von oben */
+}
+
+.imgvk{
+  border-radius: 10%;
+}
+body{
+  background-color: grey;
+}
+
+
+.containerTiem {
+  max-width: 800px; /* oder eine andere gewünschte Breite */
+  margin: auto; /* zentriert den Container horizontal */
+}
+
+.containerStudium{
+
+  max-width: 1000px; /* oder eine andere gewünschte Breite */
+  position: relative;
+  text-align: center;
+  margin: auto;
+  
+  
+  padding-top: 20px;
+  
+}
